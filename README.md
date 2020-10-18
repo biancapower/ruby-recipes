@@ -78,6 +78,7 @@ An app, written in Ruby, for management of recipes, shopping lists, meal plannin
     - tag urgent items
       - "get it now" view for small mid-week shops
     - cross items off list while shopping
+  - click for a photo of product to make it easier to spot
 - Update
   - version controlled
   - stays syced with cloud
